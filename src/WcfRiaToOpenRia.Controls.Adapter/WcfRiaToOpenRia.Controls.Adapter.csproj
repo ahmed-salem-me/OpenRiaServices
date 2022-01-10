@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>System.Windows.Controls.DomainServices</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenSilver" Version="1.0.211215" />
+    <PackageReference Include="OpenSilver.OpenRiaServices.DomainDataSource" Version="5.0.211231">
+      <Aliases>OpenRiaControlsAsm</Aliases>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
