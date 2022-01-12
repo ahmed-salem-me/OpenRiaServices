@@ -24,5 +24,8 @@
     <file src="..\..\src\bin\Release\netstandard2.0\OpenRiaServices.Controls.DomainServices.dll" target="lib\netstandard2.0\OpenRiaServices.Controls.DomainServices.dll" />
     <file src="..\..\src\bin\Release\netstandard2.0\OpenRiaServices.Controls.DomainServices.pdb" target="lib\netstandard2.0\OpenRiaServices.Controls.DomainServices.pdb" />
     <file src="..\..\src\bin\Release\netstandard2.0\OpenRiaServices.Controls.DomainServices.xml" target="lib\netstandard2.0\OpenRiaServices.Controls.DomainServices.xml" />
+	<file src="..\..\src\bin\Release\netstandard2.0\System.Windows.Controls.DomainServices.dll" target="lib\netstandard2.0\System.Windows.Controls.DomainServices.dll" />
+    <file src="..\..\src\bin\Release\netstandard2.0\System.Windows.Controls.DomainServices.pdb" target="lib\netstandard2.0\System.Windows.Controls.DomainServices.pdb" />
+    <file src="..\..\src\bin\Release\netstandard2.0\System.Windows.Controls.DomainServices.xml" target="lib\netstandard2.0\System.Windows.Controls.DomainServices.xml" />
   </files>
 </package>
