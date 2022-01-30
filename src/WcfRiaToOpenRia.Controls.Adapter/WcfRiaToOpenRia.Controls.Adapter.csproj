@@ -6,10 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="OpenSilver" Version="1.0.211215" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\OpenRiaServices.Controls.DomainServices\Framework\OpenRiaServices.Controls.DomainServices.csproj">
       <Aliases>OpenRiaControlsAsm</Aliases>
     </ProjectReference>
