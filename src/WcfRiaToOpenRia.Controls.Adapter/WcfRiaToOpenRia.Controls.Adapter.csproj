@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>System.Windows.Controls.DomainServices</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OpenRiaServices.Controls.DomainServices\Framework\OpenRiaServices.Controls.DomainServices.csproj">
+      <Aliases>OpenRiaControlsAsm</Aliases>
+    </ProjectReference>
+  </ItemGroup>
+
+</Project>
