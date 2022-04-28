@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
-    <id>OpenSilver.OpenRiaServices.Client.Core.4.6</id>
+    <id>OpenSilver.OpenRiaServices.Client.Core</id>
     <version>$PackageVersion$</version>
     <title>Open RIA Services v4.6 Client</title>
     <authors>Userware</authors>
