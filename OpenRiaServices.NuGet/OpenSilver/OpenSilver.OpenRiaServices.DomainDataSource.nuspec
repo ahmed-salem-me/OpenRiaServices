@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
-    <id>OpenSilver.OpenRiaServices.DomainDataSource</id>
+    <id>OpenSilver.OpenRiaServices.DomainDataSource.4.6</id>
     <version>$PackageVersion$</version>
     <title>Open RIA Services DomainDataSource</title>
     <authors>Userware</authors>
@@ -16,7 +16,7 @@
     <tags>WCF RIA Services RIAServices Silverlight DomainDataSource OpenRIAServices OpenSilver</tags>
     <dependencies>
       <group targetFramework="netstandard2.0">
-        <dependency id="OpenSilver.OpenRiaServices.Client.Core"  version="$PackageVersion$"/>
+        <dependency id="OpenSilver.OpenRiaServices.Client.Core.4.6"  version="$PackageVersion$"/>
       </group>
     </dependencies>
   </metadata>
